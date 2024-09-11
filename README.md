@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋
+- 🤔 一个普通的搞Java的程序员
+- 😄 阅读过各个框架的源代码，不过只看了部分，也没能完全理解架构思想
+- 💬 接触过Go、Kotlin、C++、Python等多门语言 (广而不深)
+- 💔 因家庭原因处于空窗期
+- 📱 wx：`chensh3ng`
+- 📫 likeheart@foxmail.com
 
 <!--
 **Likeheart7/likeheart7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
