@@ -1,5 +1,4 @@
 ## Hi 👋
-- 🤔 一个普通的搞Java的程序员
 
 <!--
 **Likeheart7/likeheart7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
